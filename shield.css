@@ -1,0 +1,52 @@
+
+p { 
+    margin-top: 3vh;
+    margin-bottom: 4vh;
+}
+
+.PlayShield {
+    margin-bottom: 0;
+    
+}
+
+.foot {
+    color: #D5ECEC;
+}
+
+body {
+    background-color: rgb(50 73 107);
+    background-color: line;
+    /* display: flex; */
+    color: #4EBAD0;
+    padding-top: 3%;
+    text-align: center;
+}
+
+.playb {
+    border-radius: 100%;
+}
+
+
+img {
+    position: relative;
+    width: 140px;
+    height: 120px;  
+    margin: 0;
+    border: 0;
+}
+
+.inp {
+    width: 40vw;
+}
+
+.butt {
+    border-radius: 100%;
+    /* font-size: 30px; */
+    /* background-color: #a9c0c5; */
+    border: 0;
+}
+
+.play {
+    margin-top: 20vh;
+    /* margin-bottom: 10vh; */
+}

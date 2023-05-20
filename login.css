@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(50 73 107);
+    background-color: line;
+    /* display: flex; */
+    color: #4EBAD0;
+    padding-top: 3%;
+    text-align: center;
+}
+
+.Login {
+    margin-top: 30px;
+    margin-bottom: 6vh;
+    font-size: 25px;
+}
+
+.Sonorous {
+    color: #D5ECEC;
+    margin-top: 10vh;
+    margin-bottom: 4vh;
+}
+input {
+    margin-bottom:8vh;
+    font-size: 20px;
+    background-color: #D9D9D9;
+    border: 0;
+    /* border-radius: %; */
+}
+
+img {
+    position: relative;
+    width: 140px;
+    height: 120px;  
+}
+
+.Rectangle {
+    background-color: #798FB1;
+    width: 350px;
+    height: 310px;
+    margin: 10vh auto;
+    border-radius: 10%;
+    padding: 2vh;
+}
