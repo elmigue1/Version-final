@@ -1,7 +1,7 @@
 
 p { 
     margin-top: 3vh;
-    margin-bottom: 4vh;
+    margin-bottom: 20vh;
 }
 
 .PlayShield {
@@ -37,6 +37,8 @@ img {
 
 .inp {
     width: 40vw;
+    margin-top: 10vh;
+    margin-bottom: 3vh;
 }
 
 .butt {
